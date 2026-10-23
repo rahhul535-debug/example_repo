@@ -1,16 +1,15 @@
-
-# Hi there! 👋 I'm an Engineering Student
+# Hi there! I'm an Engineering Student
 
 🎓 **B.Tech Engineering Student**
 
 Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
-- 🎓 Engineering student at SRM University
-- 💻 Completed courses in C and C++
-- 🤖 Interested in Artificial Intelligence and innovative technologies
-- 🚀 Learning programming, problem-solving, and software development
-- 💃 Passionate about dance, with certificates in Hip-Hop
+-  Engineering student at SRM University
+-  Completed courses in C and C++
+-  Interested in Artificial Intelligence and innovative technologies
+-  Learning programming, problem-solving, and software development
+-  Passionate about dance, with certificates in Hip-Hop
 
 ## 🛠️ Technical Skills
 - **Languages:** C, C++
@@ -32,11 +31,15 @@ Welcome to my GitHub profile!
 - Object-oriented programming concepts.
 - Problem-solving programs and algorithms.
 
-## 🎯 Current Goals
+##  Current Goals
 - Improve my programming skills
 - Build practical engineering projects
 - Explore AI and machine learning
 - Contribute to open-source projects
+
+##  Connect With Me
+- **LinkedIn:** Add your LinkedIn profile URL
+- **Email:** Add an email address you are comfortable sharing
 
 ---
 ⭐ Thanks for visiting my profile!
